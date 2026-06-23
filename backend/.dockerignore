@@ -1,0 +1,5 @@
+vendor/
+.env
+tests/
+.git/
+.phpunit.result.cache

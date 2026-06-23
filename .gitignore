@@ -1,0 +1,13 @@
+node_modules/
+vendor/
+.env
+.env.local
+dist/
+build/
+*.log
+.DS_Store
+.phpunit.result.cache
+
+# documentos internos de planejamento (não versionados)
+docs/
+.gstack/
